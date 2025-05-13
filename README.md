@@ -31,11 +31,11 @@ We used the publicly available **COVID-19 CT scan dataset** from Kaggle:
 
 ## How to Use
 
-### 01. Open in Colab: Click the button below to launch the notebook in Google Colab:
+01. Open in Colab: Click the button below to launch the notebook in Google Colab:
 
-### 02. Run All Cells: Follow the cells step-by-step. All dependencies are automatically installed, and the code is fully compatible with Colab.
+02. Run All Cells: Follow the cells step-by-step. All dependencies are automatically installed, and the code is fully compatible with Colab.
 
-### 03. Adjust File Paths: Update file paths in code cells accordingly.
+03. Adjust File Paths: Update file paths in code cells accordingly.
 
 ## Publication
 This work has been peer-reviewed and published by IEEE:
